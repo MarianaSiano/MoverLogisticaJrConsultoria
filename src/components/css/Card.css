@@ -1,0 +1,36 @@
+/* Classes */
+.Card {
+    border: 3px solid #FFB1A5;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    min-width: 400px;
+    max-width: 400px;
+}
+
+.Card .Empresa {
+    background-color: #F5F5F5;
+    color: #191970;
+    padding: 10px;
+    flex: 1;
+    flex-wrap: wrap;
+}
+
+.Card .Empresa h2,
+h3 {
+    text-align: center;
+}
+
+/* Responsividade */
+@media (max-width: 750px) {
+
+    /* Classes */
+    .Card {
+        margin: 10px;
+        flex-direction: row;
+        min-width: 350px;
+        max-width: 350px;
+    }
+}

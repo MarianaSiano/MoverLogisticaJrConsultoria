@@ -1,0 +1,12 @@
+/* Geral */
+.Contents {
+    background-color: #E6E6FA;
+    padding: 70px 100px 250px 100px;
+}
+
+/* Responsividade */
+@media (max-width: 750px) {
+    .Contents {
+        padding: 50px;
+    }
+}

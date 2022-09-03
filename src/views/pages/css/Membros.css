@@ -1,0 +1,14 @@
+.Membros .Juniores {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-between;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.Membros h1 {
+    text-align: center;
+    padding-bottom: 10px;
+    color: #FFB1A5;
+}

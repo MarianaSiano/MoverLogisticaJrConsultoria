@@ -1,0 +1,51 @@
+.Sobre {
+    text-align: center;
+}
+
+.Sobre .Empresarial {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    padding-top: 50px;
+}
+
+.Sobre .missao {
+    margin-right: 20%;
+    margin-left: 7%;
+}
+
+.Sobre .visao {
+    margin-right: 20%;
+}
+.Sobre .valores {
+    margin-right: 20%;
+}
+
+.Sobre h1 {
+    text-align: center;
+    padding-bottom: 15px;
+    color: #FFB1A5;
+}
+
+.Sobre p {
+    font-size: 20px;
+    padding: 5px;
+}
+
+.Sobre .missao p {
+    font-size: 16px;
+    text-align: center;
+    color: #4B0082;
+}
+
+.Sobre .visao p {
+    font-size: 16px;
+    text-align: center;
+    color: #4B0082;
+}
+
+.Sobre .valores p {
+    font-size: 16px;
+    text-align: center;
+    color: #4B0082;
+}
