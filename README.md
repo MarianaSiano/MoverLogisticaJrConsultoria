@@ -6,11 +6,11 @@
 | [Propositos do desafio](#propositos-do-desafio) |
 | [Como executar o projeto inicial](#como-executar-o-projeto-inicial) |
 | [Links Úteis](#links-uteis) |
-| [Repositorio do Desafio](#repositorio-do-desafio) |
+| [Repositorio Inicial do Desafio](#repositorio-inicial-do-desafio) |
 
 
 ## Objetivos do repositorio
-O objetivo do repositório é ter terminar o Desafio de React da gestão 2022.2.
+O objetivo do repositório é ter terminar o Desafio de React da gestão 2022.2 da empresa fictícia da Mover Logística Jr Consultoria.
 
 ## Propositos do desafio
 A proposta do desafio é criar um Site para uma Empresa Júnior fictícia, com tema de sua escolha. O site deve conter todos os requesitos funcionais que estão listados no Documento de Requesitos.
@@ -32,5 +32,5 @@ Os Assessores de Projeto devem entregar o desafio completo até a data limite.
 1. [Documentação do React](https://reactjs.org/)
 2. [Documentação do JsonServer](https://github.com/typicode/json-server)
 
-## Repositorio do Desafio
+## Repositorio Iniciaç do Desafio
 https://github.com/MarianaSiano/desafio-react-code
