@@ -5,6 +5,8 @@
 .Login input {
     font-size: 20px;
     width: 300px;
+    border-radius: 25px;
+    padding: 5px;
 }
 
 .Login p {
