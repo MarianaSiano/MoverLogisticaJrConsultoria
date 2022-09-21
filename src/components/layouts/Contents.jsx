@@ -17,7 +17,7 @@ import Cadastro from '../../views/pages/Cadastro';
 import Senha from '../../views/pages/Senha';
 import NotFound from '../../views/pages/NotFound';
 
-const Content = props => (
+const Contents = props => (
     <main className='Contents'>
         <Routes>
             <Route exact path='/' element={<Home />} />
@@ -39,4 +39,4 @@ const Content = props => (
     </main>
 )
 
-export default Content
+export default Contents
