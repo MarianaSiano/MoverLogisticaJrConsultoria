@@ -47,10 +47,9 @@
     justify-content: center;
     min-height: 15vh;
     text-align: center;
+    width: 70%;
 }
 
 .Senha .img img {
-    height: 60%;
-    width: 60%;
-    padding-left: 70px;
+    height: 340px;
 }
