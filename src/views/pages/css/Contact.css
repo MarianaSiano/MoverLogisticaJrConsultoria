@@ -46,12 +46,11 @@
     justify-content: center;
     min-height: 10vh;
     text-align: center;
+    width: 100%;
 }
 
 .Contact .img-Contato img {
-    height: 70%;
-    width: 70%;
-    padding-left: 150px;
+    height: 350px;
 }
 
 .Contact .assunto {
