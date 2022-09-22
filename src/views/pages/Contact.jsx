@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 const Contact = props => {
     return (
         <div className="Contact">
-            <div>
+            <div className='form'>
                 <h2>Entre em contato conosco!!</h2>
 
                 <form action="" className='formContato'>
