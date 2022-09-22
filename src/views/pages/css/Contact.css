@@ -1,6 +1,12 @@
+.Contact {
+    display: flex;
+}
+
 .Contact input {
     font-size: 20px;
     width: 400px;
+    border-radius: 15px;
+    padding: 5px;
 }
 
 .Contact p {
@@ -35,7 +41,17 @@
 }
 
 .Contact .img-Contato {
-    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+    text-align: center;
+}
+
+.Contact .img-Contato img {
+    height: 70%;
+    width: 70%;
+    padding-left: 150px;
 }
 
 .Contact .assunto {
